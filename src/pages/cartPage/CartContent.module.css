@@ -1,0 +1,150 @@
+.CartTitle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-style: normal;
+    font-size: 50px;
+    line-height: 110%;
+    text-align: center;
+    color: #254F4C;
+}
+
+.CartDesc{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #254F4C;
+}
+
+.productTitle{
+    display: flex;
+    justify-content: center;
+}
+
+.productTitle p{
+    padding-right: 130px;
+    padding-left: 130px;
+    color: #254F4C;
+    font-size: 18px;
+}
+
+.Line{
+    color: #3B7976;
+    width: 1150px;
+    border: 1px solid #3B7976;
+    background-color: #3B7976;
+}
+
+.productCart{
+    display: flex;
+    gap: 175px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #254F4C;
+}
+
+.productCartImg{
+    width: 100px;
+    padding-left: 270px;
+}
+
+.productCart span{
+    padding-left: 65px;
+    padding-top: 20px;
+    color:  #FF583E;
+    font-size: 30px;
+}
+
+.productCart p{
+    position: relative;
+    right: 100px;
+    padding-top: 10px;
+}
+
+.productCartTotal{
+    padding-left: 45px;
+    position: relative;
+    bottom: 10px;
+}
+
+.productCart button{
+    border: none;
+    background-color: transparent;
+    color:  #FF583E;
+    font-size: 30px;
+    padding-left: 60px;
+}
+
+.productCart b{
+    color: #254F4C;
+    font-size: 25px;
+    position: relative;
+    bottom: 2px;
+}
+
+.productCartClose{
+    font-size: 25px;
+    position: relative;
+    top: 5px;
+    right: 75px;
+}
+
+.cartTotal{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cartTotal h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-style: normal;
+    font-size: 30px;
+    color: #254F4C;
+    position: absolute;
+    right: 350px;
+    padding-top: 10px;
+}
+
+.cartTotal p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-style: normal;
+    font-size: 30px;
+    color: #254F4C;
+    position: absolute;
+    right: 200px;
+    padding-top: 10px;
+}
+
+.linkTotal a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-style: normal;
+    font-size: 20px;
+    color: #FF583E;
+    position: absolute;
+    left: 200px;
+    padding-top: 80px;
+}
+
+.cartTotal button{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-style: normal;
+    font-size: 20px;
+    width: 300px;
+    height: 48px;
+    color: #FFFFFF;
+    background-color: #FF583E;
+    border: 1px solid #FF583E;
+    border-radius: 5px;
+    position: absolute;
+    right: 170px;
+    margin-top: 110px;
+}
+
+

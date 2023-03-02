@@ -1,0 +1,497 @@
+.novelties{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 600px;
+}
+
+.noveltiesMenu{
+    display: flex;
+    flex-direction: row;
+    padding-left: 224px;
+}
+
+.noveltiesMenu h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    color: #254F4C;
+}
+
+.novelties ul{
+    display: flex;
+    gap: 36px;
+    list-style-type: none;
+    padding-left: 164px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #1D3130;
+    padding-top: 10px;
+}
+
+.noveltiesCard1 img{
+    position: absolute;
+    width: 200px;
+    height: 142.87px;
+    left: 36px;
+    bottom: 250px;
+}
+
+.noveltiesCard1{
+    width: 264px;
+    height: 348.13px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 160px;
+    left: 224px;
+    border: 1px solid #2B4241;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+.noveltiesCardContent h3{
+    position: absolute;
+    left: 86px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noveltiesCardContentDesc{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    width: 231px;
+    top: 145px;
+    left: 16px;
+}
+
+.noveltiesCardContentPrice{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    left: 100px;
+    top: 220px;
+}
+
+.noveltiesCardContent span{
+    color:  #FF583E;
+    position: absolute;
+    top: 260px;
+    left: 97px;
+    font-size: 32px;
+}
+
+.noveltiesCardContent b{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+    bottom: 6px;
+    padding-left: 6px;
+}
+
+.noveltiesCardContentBtn{
+    border: none;
+    background-color: transparent;
+    color:  #FF583E;
+    position: absolute;
+    top: 260px;
+    left: 93px;
+    font-size: 32px;
+}
+
+.noveltiesCardContentCart{
+    width: 200px;
+    height: 48.3px;
+    left: 32px;
+    background: #FF583E;
+    border-radius: 40px;
+    border: 1px solid #FF583E;
+    position: absolute;
+    top: 300px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.noveltiesCard2 img{
+    position: absolute;
+    width: 200px;
+    height: 142.87px;
+    left: 36px;
+    bottom: 250px;
+}
+
+.noveltiesCard2{
+    width: 264px;
+    height: 348.13px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 160px;
+    left: 520px;
+    border: 1px solid #2B4241;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+.noveltiesCardContent2 h3{
+    position: absolute;
+    left: 86px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noveltiesCardContentDesc2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    width: 231px;
+    top: 145px;
+    left: 16px;
+}
+
+.noveltiesCardContentPrice2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    left: 100px;
+    top: 220px;
+}
+
+.noveltiesCardContent2 span{
+    color:  #FF583E;
+    position: absolute;
+    top: 260px;
+    left: 97px;
+    font-size: 32px;
+}
+
+.noveltiesCardContent2 b{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+    bottom: 6px;
+    padding-left: 6px;
+}
+
+.noveltiesCard3 img{
+    position: absolute;
+    width: 200px;
+    height: 142.87px;
+    left: 36px;
+    bottom: 250px;
+}
+
+.noveltiesCard3{
+    width: 264px;
+    height: 348.13px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 160px;
+    left: 816px;
+    border: 1px solid #2B4241;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+.noveltiesCardContent3 h3{
+    position: absolute;
+    left: 86px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noveltiesCardContentDesc3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    width: 231px;
+    top: 145px;
+    left: 16px;
+}
+
+.noveltiesCardContentPrice3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    left: 100px;
+    top: 220px;
+}
+
+.noveltiesCardContent3 span{
+    color:  #FF583E;
+    position: absolute;
+    top: 260px;
+    left: 97px;
+    font-size: 32px;
+}
+
+.noveltiesCardContent3 b{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+    bottom: 6px;
+    padding-left: 6px;
+}
+
+.noveltiesCard2 img{
+    position: absolute;
+    width: 200px;
+    height: 142.87px;
+    left: 36px;
+    bottom: 250px;
+}
+
+.noveltiesCard2{
+    width: 264px;
+    height: 348.13px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 160px;
+    left: 520px;
+    border: 1px solid #2B4241;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+.noveltiesCardContent2 h3{
+    position: absolute;
+    left: 86px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noveltiesCardContentDesc2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    width: 231px;
+    top: 145px;
+    left: 16px;
+}
+
+.noveltiesCardContentPrice2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    left: 100px;
+    top: 220px;
+}
+
+.noveltiesCardContent2 span{
+    color:  #FF583E;
+    position: absolute;
+    top: 260px;
+    left: 97px;
+    font-size: 32px;
+}
+
+.noveltiesCardContent2 b{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+    bottom: 6px;
+    padding-left: 6px;
+}
+
+.noveltiesCard4 img{
+    position: absolute;
+    width: 200px;
+    height: 142.87px;
+    left: 36px;
+    bottom: 250px;
+}
+
+.noveltiesCard4{
+    width: 264px;
+    height: 348.13px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 160px;
+    left: 1112px;
+    border: 1px solid #2B4241;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+.noveltiesCardContent4 h3{
+    position: absolute;
+    left: 86px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.noveltiesCardContentDesc4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    width: 231px;
+    top: 145px;
+    left: 16px;
+}
+
+.noveltiesCardContentPrice4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    left: 100px;
+    top: 220px;
+}
+
+.noveltiesCardContent4 span{
+    color:  #FF583E;
+    position: absolute;
+    top: 260px;
+    left: 97px;
+    font-size: 32px;
+}
+
+.noveltiesCardContent4 b{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative;
+    bottom: 6px;
+    padding-left: 6px;
+}

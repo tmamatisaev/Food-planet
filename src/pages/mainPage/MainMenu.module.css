@@ -1,0 +1,59 @@
+.mainMenu{
+    display: flex;
+    flex-direction: column;
+}
+
+.mainDesc{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    color: #254F4C;
+    padding: 50px 997px 0px 200px;
+}
+
+.desc{
+    position: absolute;
+    width: 416px;
+    height: 48px;
+    left: 203px;
+    top: 335px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.mainBtn{
+    border-color: #FF583E;
+    background: #FF583E;
+    border-radius: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    position: absolute;
+    width: 216px;
+    height: 49px;
+    left: 200px;
+    top: 415px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 1px solid #FF583E;
+}
+
+.btnImg{
+    padding-left: 5px;
+}
+
+.mainImg{
+    position: absolute;
+    width: 659px;
+    height: 455px;
+    left: 741px;
+    top: 112px;
+}
+

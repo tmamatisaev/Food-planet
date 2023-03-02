@@ -1,0 +1,54 @@
+.header{
+    display: flex;
+}
+
+.logoImg{
+    position: absolute;
+    width: 224px;
+    height: 40px;
+    left: 200px;
+    top: 24px;
+}
+
+.navMenu{
+    display: flex;
+    padding-left: 560px;
+}
+
+.navMenu ul{
+    gap: 60px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.ulMenu{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.li{
+    color: #FF583E;
+}
+
+a{
+    text-decoration: none;
+    color: #1D3130;
+    transition: 0.2s;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #FF583E;
+    transition: 0.2s;
+}
+
+.linkHeader{
+    /*padding: 32px 5px;*/
+    color: #FF583E;
+}

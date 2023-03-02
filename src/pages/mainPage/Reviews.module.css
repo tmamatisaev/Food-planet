@@ -1,0 +1,267 @@
+.reviewsBlock h2{
+    position: absolute;
+    width: 276px;
+    height: 32px;
+    left: 224px;
+    top: 2600px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #254F4C;
+}
+
+.reviewsCardBorder{
+    position: absolute;
+    width: 248px;
+    height: 304px;
+    left: 224px;
+    top: 2681px;
+}
+
+.reviewsCard h3{
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    left: 310px;
+    top: 2793px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}
+
+.reviewsCardAvatar{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    left: 307px;
+    top: 2705px;
+}
+
+.reviewsCard p{
+    position: absolute;
+    width: 216px;
+    height: 104px;
+    left: 240px;
+    top: 2825px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.reviewsCard span{
+    position: absolute;
+    width: 206px;
+    height: 16px;
+    left: 250px;
+    top: 2955px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #3B7976;
+}
+
+.reviewsCardBorder2{
+    position: absolute;
+    width: 248px;
+    height: 304px;
+    left: 506px;
+    top: 2681px;
+}
+
+.reviewsCard2 h3{
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    left: 590px;
+    top: 2793px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}
+
+.reviewsCardAvatar2{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    left: 589px;
+    top: 2705px;
+}
+
+.reviewsCard2 p{
+    position: absolute;
+    width: 216px;
+    height: 104px;
+    left: 522px;
+    top: 2825px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.reviewsCard2 span{
+    position: absolute;
+    width: 206px;
+    height: 16px;
+    left: 530px;
+    top: 2955px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #3B7976;
+}
+
+.reviewsCardBorder3{
+    position: absolute;
+    width: 248px;
+    height: 304px;
+    left: 788px;
+    top: 2681px;
+}
+
+.reviewsCard3 h3{
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    left: 872px;
+    top: 2793px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}
+
+.reviewsCardAvatar3{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    left: 871px;
+    top: 2705px;
+}
+
+.reviewsCard3 p{
+    position: absolute;
+    width: 216px;
+    height: 104px;
+    left: 804px;
+    top: 2825px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.reviewsCard3 span{
+    position: absolute;
+    width: 206px;
+    height: 16px;
+    left: 814px;
+    top: 2955px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #3B7976;
+}
+
+.reviewsCardBorder4{
+    position: absolute;
+    width: 248px;
+    height: 304px;
+    left: 1070px;
+    top: 2681px;
+}
+
+.reviewsCard4 h3{
+    position: absolute;
+    width: 102px;
+    height: 24px;
+    left: 1154px;
+    top: 2793px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #3B7976;
+}
+
+.reviewsCardAvatar4{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    left: 1153px;
+    top: 2705px;
+}
+
+.reviewsCard4 p{
+    position: absolute;
+    width: 206px;
+    height: 104px;
+    left: 1095px;
+    top: 2830px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.reviewsCard4 span{
+    position: absolute;
+    width: 206px;
+    height: 16px;
+    left: 1096px;
+    top: 2955px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #3B7976;
+}

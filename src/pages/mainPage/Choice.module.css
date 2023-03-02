@@ -1,0 +1,161 @@
+.choiceBlock h2{
+    position: absolute;
+    width: 276px;
+    height: 32px;
+    left: 224px;
+    top: 2286px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    color: #254F4C;
+}
+
+.choiceInstantly img{
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    left: 308px;
+    top: 2380px;
+}
+
+.choiceInstantly h3{
+    position: absolute;
+    width: 216px;
+    height: 24px;
+    left: 244px;
+    top: 2464px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #254F4C;
+}
+
+.choiceInstantly p{
+    position: absolute;
+    width: 256px;
+    height: 48px;
+    left: 224px;
+    top: 2506px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #1D3130;
+}
+
+.choiceProducts img{
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    left: 596px;
+    top: 2380px;
+}
+
+.choiceProducts h3{
+    position: absolute;
+    width: 216px;
+    height: 24px;
+    left: 552px;
+    top: 2464px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #254F4C;
+}
+
+.choiceProducts p{
+    position: absolute;
+    width: 256px;
+    height: 48px;
+    left: 512px;
+    top: 2506px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #1D3130;
+}
+
+.choiceUniqueMenu img{
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    left: 884px;
+    top: 2380px;
+}
+
+.choiceUniqueMenu h3{
+    position: absolute;
+    width: 216px;
+    height: 24px;
+    left: 854px;
+    top: 2464px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #254F4C;
+}
+
+.choiceUniqueMenu p{
+    position: absolute;
+    width: 256px;
+    height: 48px;
+    left: 800px;
+    top: 2506px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #1D3130;
+}
+
+.choiceDelivery img{
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    left: 1172px;
+    top: 2380px;
+}
+
+.choiceDelivery h3{
+    position: absolute;
+    width: 216px;
+    height: 24px;
+    left: 1170px;
+    top: 2464px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #254F4C;
+}
+
+.choiceDelivery p{
+    position: absolute;
+    width: 256px;
+    height: 48px;
+    left: 1088px;
+    top: 2506px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #1D3130;
+}

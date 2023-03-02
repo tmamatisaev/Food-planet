@@ -1,0 +1,42 @@
+.footer{
+    display: flex;
+    background: #254F4C;
+    position: absolute;
+    width: 1600px;
+    height: 152px;
+    top: 3073px;
+}
+
+.logoImg{
+    position: absolute;
+    width: 224px;
+    height: 40px;
+    left: 266px;
+    top: 56px;
+}
+
+.navFooter{
+    display: flex;
+    padding-left: 560px;
+}
+
+.navFooter ul{
+    gap: 76px;
+    padding-top: 56px;
+}
+
+.ulFooter{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.ulFooter a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
