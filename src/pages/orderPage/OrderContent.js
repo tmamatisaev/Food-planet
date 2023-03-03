@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './OrderContent.module.css'
 import ches from "../../images/ches2.svg";
-
+import {NavLink} from 'react-router-dom'
 const OrderContent = () => {
     return (
         <>
@@ -44,7 +44,7 @@ const OrderContent = () => {
                     <p className={styles.confirmOrderTotal}>Итого:</p>
                     <p className={styles.confirmOrderProduct}>1 товар на сумму</p><span>200сом</span>
                     <p className={styles.confirmOrderPay}>К оплате</p>  <span>200сом</span>
-                    <button className={styles.confirmOrderBtn}>Подтвердить заказ</button>
+                    <NavLink to="/*" className={styles.confirmOrderBtn}>Подтвердить заказ</NavLink>
                     <p className={styles.confirmOrderText}>Подтверждая заказ, я принимаю условия <a className={styles.link} href="#">пользовательского соглашения</a></p>
                 </div>
             </div>
